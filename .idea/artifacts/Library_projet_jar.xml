@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Library_projet:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Library_projet_jar</output-path>
+    <root id="archive" name="Library_projet.jar">
+      <element id="module-output" name="Library_projet" />
+      <element id="library" level="project" name="api" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../ojdbc11.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
