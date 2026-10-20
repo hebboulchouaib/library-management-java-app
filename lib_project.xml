@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>D:\informatic etude-prs\L2-ACAD\S4\BDD\projet\Library_projet\out\artifacts\Library_projet_jar\Library_projet.jar</jar>
+  <outfile>D:\informatic etude-prs\L2-ACAD\S4\BDD\projet\Library_projet\out\artifacts\Library_projet_jar\library_project.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>true</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\Informatics\Downloads\bookic.ico</icon>
+  <jre>
+    <path>jdk-21.0.7+6-jre </path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>1.4.0</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>
