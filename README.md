@@ -58,4 +58,4 @@ This version needs Java and an Oracle database on the machine where it runs, and
 
 ## Author
 
-Chouaiib, third-year Computer Science student at USTHB, Algiers. [GitHub](https://github.com/hebboulchouaib)
+Hebboul abderrahmane Chouaiib, third-year Computer Science student at USTHB, Algiers. [GitHub](https://github.com/hebboulchouaib)
